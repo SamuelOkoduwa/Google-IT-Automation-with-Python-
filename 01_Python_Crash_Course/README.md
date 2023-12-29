@@ -24,8 +24,8 @@ Utilize basic Python arithmetic operators to obtain the results of mathematical 
 **Content**
 
 + Introduction to python
-+ Using the [Print function()](./01_Python_Crash_Course/01_Hello_Python/hello.py) to print Hello world on the screen
-+ Basic Mathematical [Arithmetic Operation](./01_Python_Crash_Course/01_Hello_Python/hello.py) in Python
++ Using the [Print function()](./01_Hello_Python/hello.py) to print Hello world on the screen
++ Basic Mathematical [Arithmetic Operation](./01_Hello_Python/hello.py) in Python
 
 <h4>Module 2</h4>
 <h5>Objectives</h5>
